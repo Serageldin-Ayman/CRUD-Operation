@@ -42,14 +42,6 @@ A simple Node.js REST API project using Express and Mongoose for user management
 
 1. Clone the repository
 2. Run `npm install`
-3. Set up your `.env` file (see example below)
-
-#### Example `.env`
-
-```
-PORT=3000
-CONNECTION_URI=mongodb://127.0.0.1:27017/mongooseDemo
-```
 
 ### Running the Project
 
